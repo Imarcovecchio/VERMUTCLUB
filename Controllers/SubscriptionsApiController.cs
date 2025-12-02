@@ -33,8 +33,6 @@ namespace VermutClub.Controllers.Api
             Console.WriteLine($"Plan: {request.Plan}");
             Console.WriteLine("=================================");
 
-            return Ok(new { message = "Suscripción recibida correctamente" });
-
             var sus = new SubscriptionRequest
             {
                 Nombre = request.Nombre ,
