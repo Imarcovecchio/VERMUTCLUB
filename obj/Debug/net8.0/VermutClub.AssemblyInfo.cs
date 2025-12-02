@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VermutClub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce160c9854a83a7c4e6b35a9ca2fb3a87ccf3c54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea1aa675030c47904655a5a4c634e78e7d30e223")]
 [assembly: System.Reflection.AssemblyProductAttribute("VermutClub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VermutClub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
