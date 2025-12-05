@@ -12,7 +12,7 @@ using VermutClub.Data;
 namespace VermutClub.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20251205014356_AddSubscriptionRequests")]
+    [Migration("20251205023132_AddSubscriptionRequests")]
     partial class AddSubscriptionRequests
     {
         /// <inheritdoc />
