@@ -26,72 +26,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/ignacio/Documents/VermutClub
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/ignacio/Documents/VermutClub/Views/Address/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRkcmVzcy9DcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Address/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRkcmVzcy9EZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Address/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRkcmVzcy9EZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Address/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRkcmVzcy9FZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Address/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRkcmVzcy9JbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [/home/ignacio/Documents/VermutClub/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/ignacio/Documents/VermutClub/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Orders/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJzL0NyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Orders/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJzL0RlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Orders/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJzL0RldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Orders/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJzL0VkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Orders/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJzL0luZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Payment/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudC9DcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Payment/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudC9EZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Payment/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudC9EZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Payment/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudC9FZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Payment/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/ignacio/Documents/VermutClub/Views/Shared/Error.cshtml]
@@ -120,26 +60,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/home/ignacio/Documents/VermutClub/Views/SubscriptionRequest/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3Vic2NyaXB0aW9uUmVxdWVzdC9JbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Users/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Users/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Users/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Users/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/ignacio/Documents/VermutClub/Views/Users/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/ignacio/Documents/VermutClub/Views/_ViewImports.cshtml]
