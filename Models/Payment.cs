@@ -2,7 +2,7 @@ namespace VermutClub.Models
 {
     public class Payment
     {
-        public int Id { get; set; }
+        public int Ida { get; set; }
         public int OrderId { get; set; }
         public string Method { get; set; } 
         public string Status { get; set; } 
