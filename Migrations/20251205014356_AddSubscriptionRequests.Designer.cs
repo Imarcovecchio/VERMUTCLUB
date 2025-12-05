@@ -12,8 +12,8 @@ using VermutClub.Data;
 namespace VermutClub.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20251205004515_InitSubscriptionsDb")]
-    partial class InitSubscriptionsDb
+    [Migration("20251205014356_AddSubscriptionRequests")]
+    partial class AddSubscriptionRequests
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
