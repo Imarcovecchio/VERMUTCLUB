@@ -24,27 +24,26 @@ namespace VermutClub.Controllers.Api
         }
 
         [HttpPost]
-        public async Task<IActionResult> Post([FromBody] SubscriptionRequest request)
-        {
-            Console.WriteLine("=== Nueva suscripción recibida ===");
-            Console.WriteLine($"Nombre: {request.Nombre}");
-            Console.WriteLine($"Email: {request.Email}");
-            Console.WriteLine($"Phone: {request.Phone}");
-            Console.WriteLine($"Plan: {request.Plan}");
-            Console.WriteLine("=================================");
+public async Task<IActionResult> Post([FromBody] SubscriptionRequest req)
+{
+    Console.WriteLine("[API] POST recibido en /api/SubscriptionsApi");
 
-            var sus = new SubscriptionRequest
-            {
-                Nombre = request.Nombre ,
-                Email = request.Email,
-                Phone= request.Phone,
-                Plan= request.Plan  
-            };
+    if (req == null)
+    {
+        Console.WriteLine("[API] ERROR: Request body vino vacío");
+        return BadRequest(new { error = "Request vacío" });
+    }
 
-            _context.SubscriptionRequests.Add(sus);
-            await  _context.SaveChangesAsync();
-            return Ok(new { message = "Suscripción guardada correctamente" });
-        
-        }
+    Console.WriteLine("[API] Datos recibidos:");
+    Console.WriteLine(System.Text.Json.JsonSerializer.Serialize(req));
+
+    _context.SubscriptionRequests.Add(req);
+    await _context.SaveChangesAsync();
+
+    Console.WriteLine("[API] Suscripción guardada correctamente");
+
+    return Ok(new { message = "Suscripción guardada correctamente" });
+}
+
     }
 }
